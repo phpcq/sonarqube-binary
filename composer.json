@@ -1,0 +1,24 @@
+{
+    "name": "phpcq/sonarqube-binary",
+    "description": "Sonarqube binary for phpcq.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Schiffler",
+            "email": "c.schiffler@cyberspectrum.de",
+            "homepage": "http://cyberspectrum.de",
+            "role": "lead"
+        },
+        {
+            "name": "Tristan Lins",
+            "email": "tristan@lins.de",
+            "homepage": "https://tristan.lins.io",
+            "role": "lead"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-develop": "1.x-dev"
+        }
+    }
+}
